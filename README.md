@@ -1,9 +1,10 @@
 # babaji
-Baba online services learning project
-online oayment learning
-kearn about family.
-learn about lobe.
+Baba online services learning project.
+online payment learning.
+learn about family.
+learn about love.
 learn about work.
-learn about buddinrss.
-lrarc about svhool.
+learn about bussiness.
+learn about school.
 learn about worship.
+it is an amazing project.
